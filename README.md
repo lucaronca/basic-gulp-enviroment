@@ -4,7 +4,7 @@
 ![](gulp.png)
 ## Features
 * Concatenate and minify js, css, and html for distribution
-* Automatic injection of Bower components in finals and compiled js and css files
+* Automatic injection of Bower components
 * Image optimization
 * Provide a web server with livereload via BrowserSync
 
