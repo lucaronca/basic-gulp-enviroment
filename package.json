@@ -1,7 +1,7 @@
 {
-  "name": "gulp_proj",
+  "name": "euromedia-gulp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A brief generator that scaffolds a front-end webapp bootstrap ready using gulp",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,9 @@
     "gulp-uglify": "^1.5.3",
     "imagemin-pngquant": "^4.2.2",
     "main-bower-files": "^2.11.1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/lucaronca/euromedia-gulp.git"
   }
 }
