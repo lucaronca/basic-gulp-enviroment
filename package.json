@@ -1,6 +1,6 @@
 {
   "name": "euromedia-gulp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A brief generator that scaffolds a front-end webapp bootstrap ready using gulp",
   "main": "index.html",
   "scripts": {
