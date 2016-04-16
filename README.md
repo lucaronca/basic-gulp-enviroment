@@ -1,5 +1,5 @@
 # Euromedia gulp
-(gulp.png)
+![](gulp.png)
 
 > A brief generator that scaffolds a front-end webapp bootstrap ready using gulp
 
