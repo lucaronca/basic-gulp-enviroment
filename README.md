@@ -1,8 +1,7 @@
 # Euromedia gulp
-![](gulp.png)
-
 > A brief generator that scaffolds a front-end webapp bootstrap ready using gulp
 
+![](gulp.png)
 ## Features
 * Concatenate and minify js, css, and html for distribution
 * Automatic injection of Bower components in finals and compiled js and css files
