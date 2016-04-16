@@ -1,0 +1,20 @@
+{
+  "name": "gulp_proj",
+  "description": "",
+  "main": "app/index.html",
+  "authors": [
+    "luca ronca"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
