@@ -10,4 +10,4 @@
 
 ## Usage
 * Place all you vendors files in the app folder and related folders
-* Just execute 'gulp' command for comiple files launch the web server, livereload
+* Just execute 'gulp' command for compile files and launch the web server with livereload
