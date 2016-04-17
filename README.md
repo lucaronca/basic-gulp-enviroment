@@ -9,5 +9,5 @@
 * Provide a web server with livereload via BrowserSync
 
 ## Usage
-* Place all you vendors files in the app folder and related folders
+* Place all you vendors files in the app folder and related subfolders
 * Just execute 'gulp' command for compile files and launch the web server with livereload
