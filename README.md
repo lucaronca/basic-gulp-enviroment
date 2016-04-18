@@ -1,4 +1,4 @@
-# Euromedia gulp
+# lronca gulp
 > A brief generator that scaffolds a front-end webapp bootstrap ready using gulp
 
 ![](gulp.png)
