@@ -1,4 +1,4 @@
-# lronca gulp
+# basic gulp enviroment
 > A brief generator that scaffolds a front-end webapp bootstrap ready using gulp
 
 ![](gulp.png)
