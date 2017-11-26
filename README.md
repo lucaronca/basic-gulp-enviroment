@@ -1,5 +1,5 @@
 # basic gulp enviroment
-> A brief generator that scaffolds a front-end webapp bootstrap ready using gulp
+> A brief generator that scaffolds a front-end webapp with twitter bootstrap using gulp
 
 ![](gulp.png)
 ## Features
